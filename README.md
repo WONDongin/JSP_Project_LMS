@@ -13,6 +13,9 @@ JSP_Project_LMS : 세미 프로젝트
 - 사용자 요구정의서
 - WBS
 - ERD
+- 페이지별로 역활분담
+- View 페이지 제작
+- Controller, Mapper, Dao
 
 
 #### **☑️ 주요기능** 
